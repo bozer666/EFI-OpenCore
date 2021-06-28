@@ -1,6 +1,6 @@
 # EFI-OpenCore
 华硕玩家国度ROG魔霸2自用黑苹果OpenCore引导
-* OpenCore版本 `0.6.8`
+* OpenCore版本 `0.7.0`
 
 ## 我的机型
 * Asus ROG Strix Hero II GL504GM
@@ -28,6 +28,7 @@
 * 触摸板已驱动`GPIO中断模式 pin=0x95`
 * 电池驱动已正常
 * 睡眠唤醒已正常
+* HDMI由于是独显直连，目前无解`可以使用无线投屏器`
 * 已开启原生NVRAM
 * 已支持USB3.0，最快速度达5Gbps
 * 已支持Windows系统启动
